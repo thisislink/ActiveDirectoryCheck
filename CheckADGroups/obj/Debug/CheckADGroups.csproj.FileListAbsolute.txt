@@ -1,0 +1,14 @@
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\bin\Debug\CheckADGroups.exe.config
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\bin\Debug\CheckADGroups.exe
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\bin\Debug\CheckADGroups.pdb
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\obj\Debug\CheckADGroups.csprojAssemblyReference.cache
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\obj\Debug\CheckADGroups.Properties.Resources.resources
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\obj\Debug\CheckADGroups.csproj.GenerateResource.cache
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\obj\Debug\CheckADGroups.csproj.CoreCompileInputs.cache
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\obj\Debug\CheckADGroups.exe
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\obj\Debug\CheckADGroups.pdb
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\bin\Debug\CheckADGroups.exe.manifest
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\bin\Debug\CheckADGroups.application
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\obj\Debug\CheckADGroups.CheckADGroupsForm.resources
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\obj\Debug\CheckADGroups.exe.manifest
+C:\Users\linkdap\Desktop\Github_Temp\CheckADGroups\CheckADGroups\obj\Debug\CheckADGroups.application
