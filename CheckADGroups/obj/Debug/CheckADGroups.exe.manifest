@@ -42,14 +42,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CheckADGroups.exe" size="11176">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CheckADGroups.exe" size="14248">
       <assemblyIdentity name="CheckADGroups" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Q8gOcr+QmB/1wow6zIB60BPSyBTyOLeqN2xM9QC5NZ0=</dsig:DigestValue>
+        <dsig:DigestValue>g6hU0SNsf9rVuL0PuskcCKd9nYS5muuYlATTe/n+7xs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FluentAssertions.dll" size="455168">
+      <assemblyIdentity name="FluentAssertions" version="5.10.3.0" publicKeyToken="33F2691A05B67B6A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>KxMxj7AUHmcfXjO1MK2qARHA+B3PVDw3NwYY1XN7u0M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
